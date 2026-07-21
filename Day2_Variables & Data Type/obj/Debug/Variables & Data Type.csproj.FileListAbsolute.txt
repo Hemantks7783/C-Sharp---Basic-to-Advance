@@ -1,0 +1,8 @@
+D:\dotnet\Basic to Advance\Day 2\Variables & Data Type\obj\Debug\Variables & Data Type.csproj.AssemblyReference.cache
+D:\dotnet\Basic to Advance\Day 2\Variables & Data Type\obj\Debug\Variables & Data Type.csproj.CoreCompileInputs.cache
+D:\dotnet\Basic to Advance\Day 2\Variables & Data Type\bin\Debug\Variables & Data Type.exe.config
+D:\dotnet\Basic to Advance\Day 2\Variables & Data Type\bin\Debug\Variables & Data Type.exe
+D:\dotnet\Basic to Advance\Day 2\Variables & Data Type\bin\Debug\Variables & Data Type.pdb
+D:\dotnet\Basic to Advance\Day 2\Variables & Data Type\obj\Debug\Variables & Data Type.exe
+D:\dotnet\Basic to Advance\Day 2\Variables & Data Type\obj\Debug\Variables & Data Type.pdb
+D:\dotnet\Basic to Advance\Day 2\Variables & Data Type\obj\Debug\Variables & Data Type.exe.config
