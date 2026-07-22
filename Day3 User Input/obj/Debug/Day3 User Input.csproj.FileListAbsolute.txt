@@ -1,0 +1,8 @@
+D:\dotnet\Basic to Advance\Day 2\Day3 User Input\bin\Debug\Day3 User Input.exe.config
+D:\dotnet\Basic to Advance\Day 2\Day3 User Input\bin\Debug\Day3 User Input.exe
+D:\dotnet\Basic to Advance\Day 2\Day3 User Input\bin\Debug\Day3 User Input.pdb
+D:\dotnet\Basic to Advance\Day 2\Day3 User Input\obj\Debug\Day3 User Input.csproj.AssemblyReference.cache
+D:\dotnet\Basic to Advance\Day 2\Day3 User Input\obj\Debug\Day3 User Input.csproj.CoreCompileInputs.cache
+D:\dotnet\Basic to Advance\Day 2\Day3 User Input\obj\Debug\Day3 User Input.exe
+D:\dotnet\Basic to Advance\Day 2\Day3 User Input\obj\Debug\Day3 User Input.pdb
+D:\dotnet\Basic to Advance\Day 2\Day3 User Input\obj\Debug\Day3 User Input.exe.config

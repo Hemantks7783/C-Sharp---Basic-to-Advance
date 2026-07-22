@@ -1,0 +1,14 @@
+D:\dotnet\Basic to Advance\Day 2\Day5_Decision Making\bin\Debug\net8.0\Day5_Decision Making.exe
+D:\dotnet\Basic to Advance\Day 2\Day5_Decision Making\bin\Debug\net8.0\Day5_Decision Making.deps.json
+D:\dotnet\Basic to Advance\Day 2\Day5_Decision Making\bin\Debug\net8.0\Day5_Decision Making.runtimeconfig.json
+D:\dotnet\Basic to Advance\Day 2\Day5_Decision Making\bin\Debug\net8.0\Day5_Decision Making.dll
+D:\dotnet\Basic to Advance\Day 2\Day5_Decision Making\bin\Debug\net8.0\Day5_Decision Making.pdb
+D:\dotnet\Basic to Advance\Day 2\Day5_Decision Making\obj\Debug\net8.0\Day5_Decision Making.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\Basic to Advance\Day 2\Day5_Decision Making\obj\Debug\net8.0\Day5_Decision Making.AssemblyInfoInputs.cache
+D:\dotnet\Basic to Advance\Day 2\Day5_Decision Making\obj\Debug\net8.0\Day5_Decision Making.AssemblyInfo.cs
+D:\dotnet\Basic to Advance\Day 2\Day5_Decision Making\obj\Debug\net8.0\Day5_Decision Making.csproj.CoreCompileInputs.cache
+D:\dotnet\Basic to Advance\Day 2\Day5_Decision Making\obj\Debug\net8.0\Day5_Decision Making.dll
+D:\dotnet\Basic to Advance\Day 2\Day5_Decision Making\obj\Debug\net8.0\refint\Day5_Decision Making.dll
+D:\dotnet\Basic to Advance\Day 2\Day5_Decision Making\obj\Debug\net8.0\Day5_Decision Making.pdb
+D:\dotnet\Basic to Advance\Day 2\Day5_Decision Making\obj\Debug\net8.0\Day5_Decision Making.genruntimeconfig.cache
+D:\dotnet\Basic to Advance\Day 2\Day5_Decision Making\obj\Debug\net8.0\ref\Day5_Decision Making.dll

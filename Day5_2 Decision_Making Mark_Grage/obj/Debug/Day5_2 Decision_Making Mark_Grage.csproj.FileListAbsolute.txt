@@ -1,0 +1,8 @@
+D:\dotnet\Basic to Advance\Day 2\Day5_2 Decision_Making Mark_Grage\bin\Debug\Day5_2 Decision_Making Mark_Grage.exe.config
+D:\dotnet\Basic to Advance\Day 2\Day5_2 Decision_Making Mark_Grage\bin\Debug\Day5_2 Decision_Making Mark_Grage.exe
+D:\dotnet\Basic to Advance\Day 2\Day5_2 Decision_Making Mark_Grage\bin\Debug\Day5_2 Decision_Making Mark_Grage.pdb
+D:\dotnet\Basic to Advance\Day 2\Day5_2 Decision_Making Mark_Grage\obj\Debug\Day5_2 Decision_Making Mark_Grage.csproj.AssemblyReference.cache
+D:\dotnet\Basic to Advance\Day 2\Day5_2 Decision_Making Mark_Grage\obj\Debug\Day5_2 Decision_Making Mark_Grage.csproj.CoreCompileInputs.cache
+D:\dotnet\Basic to Advance\Day 2\Day5_2 Decision_Making Mark_Grage\obj\Debug\Day5_2 Decision_Making Mark_Grage.exe
+D:\dotnet\Basic to Advance\Day 2\Day5_2 Decision_Making Mark_Grage\obj\Debug\Day5_2 Decision_Making Mark_Grage.pdb
+D:\dotnet\Basic to Advance\Day 2\Day5_2 Decision_Making Mark_Grage\obj\Debug\Day5_2 Decision_Making Mark_Grage.exe.config
