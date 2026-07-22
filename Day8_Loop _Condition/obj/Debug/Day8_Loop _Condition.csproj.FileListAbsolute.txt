@@ -1,0 +1,8 @@
+D:\dotnet\Basic to Advance\Day 2\Day8_Loop _Condition\bin\Debug\Day8_Loop _Condition.exe.config
+D:\dotnet\Basic to Advance\Day 2\Day8_Loop _Condition\bin\Debug\Day8_Loop _Condition.exe
+D:\dotnet\Basic to Advance\Day 2\Day8_Loop _Condition\bin\Debug\Day8_Loop _Condition.pdb
+D:\dotnet\Basic to Advance\Day 2\Day8_Loop _Condition\obj\Debug\Day8_Loop _Condition.csproj.AssemblyReference.cache
+D:\dotnet\Basic to Advance\Day 2\Day8_Loop _Condition\obj\Debug\Day8_Loop _Condition.csproj.CoreCompileInputs.cache
+D:\dotnet\Basic to Advance\Day 2\Day8_Loop _Condition\obj\Debug\Day8_Loop _Condition.exe
+D:\dotnet\Basic to Advance\Day 2\Day8_Loop _Condition\obj\Debug\Day8_Loop _Condition.pdb
+D:\dotnet\Basic to Advance\Day 2\Day8_Loop _Condition\obj\Debug\Day8_Loop _Condition.exe.config

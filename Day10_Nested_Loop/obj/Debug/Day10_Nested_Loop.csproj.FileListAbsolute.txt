@@ -1,0 +1,7 @@
+D:\dotnet\Basic to Advance\Day 2\Day10_Nested_Loop\bin\Debug\Day10_Nested_Loop.exe.config
+D:\dotnet\Basic to Advance\Day 2\Day10_Nested_Loop\bin\Debug\Day10_Nested_Loop.exe
+D:\dotnet\Basic to Advance\Day 2\Day10_Nested_Loop\bin\Debug\Day10_Nested_Loop.pdb
+D:\dotnet\Basic to Advance\Day 2\Day10_Nested_Loop\obj\Debug\Day10_Nested_Loop.csproj.AssemblyReference.cache
+D:\dotnet\Basic to Advance\Day 2\Day10_Nested_Loop\obj\Debug\Day10_Nested_Loop.csproj.CoreCompileInputs.cache
+D:\dotnet\Basic to Advance\Day 2\Day10_Nested_Loop\obj\Debug\Day10_Nested_Loop.exe
+D:\dotnet\Basic to Advance\Day 2\Day10_Nested_Loop\obj\Debug\Day10_Nested_Loop.pdb
