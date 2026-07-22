@@ -1,0 +1,14 @@
+D:\dotnet\Basic to Advance\Day 1\Basic Program\bin\Debug\net8.0\Basic Program.exe
+D:\dotnet\Basic to Advance\Day 1\Basic Program\bin\Debug\net8.0\Basic Program.deps.json
+D:\dotnet\Basic to Advance\Day 1\Basic Program\bin\Debug\net8.0\Basic Program.runtimeconfig.json
+D:\dotnet\Basic to Advance\Day 1\Basic Program\bin\Debug\net8.0\Basic Program.dll
+D:\dotnet\Basic to Advance\Day 1\Basic Program\bin\Debug\net8.0\Basic Program.pdb
+D:\dotnet\Basic to Advance\Day 1\Basic Program\obj\Debug\net8.0\Basic Program.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\Basic to Advance\Day 1\Basic Program\obj\Debug\net8.0\Basic Program.AssemblyInfoInputs.cache
+D:\dotnet\Basic to Advance\Day 1\Basic Program\obj\Debug\net8.0\Basic Program.AssemblyInfo.cs
+D:\dotnet\Basic to Advance\Day 1\Basic Program\obj\Debug\net8.0\Basic Program.csproj.CoreCompileInputs.cache
+D:\dotnet\Basic to Advance\Day 1\Basic Program\obj\Debug\net8.0\Basic Program.dll
+D:\dotnet\Basic to Advance\Day 1\Basic Program\obj\Debug\net8.0\refint\Basic Program.dll
+D:\dotnet\Basic to Advance\Day 1\Basic Program\obj\Debug\net8.0\Basic Program.pdb
+D:\dotnet\Basic to Advance\Day 1\Basic Program\obj\Debug\net8.0\Basic Program.genruntimeconfig.cache
+D:\dotnet\Basic to Advance\Day 1\Basic Program\obj\Debug\net8.0\ref\Basic Program.dll
