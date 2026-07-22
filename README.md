@@ -68,3 +68,7 @@ To consolidate your learning from Lessons 1–19, complete the following practic
 Feel free to fork this repository, submit issues, or open pull requests if you find any typos or want to add extra practice problems!
 
 ★ Star this repo if you find it helpful on your learning journey!
+
+## Author
+
+Hemant Kumar Sharma
