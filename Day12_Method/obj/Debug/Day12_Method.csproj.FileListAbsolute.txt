@@ -1,0 +1,8 @@
+D:\dotnet\Basic to Advance\Day12_Method\bin\Debug\Day12_Method.exe.config
+D:\dotnet\Basic to Advance\Day12_Method\bin\Debug\Day12_Method.exe
+D:\dotnet\Basic to Advance\Day12_Method\bin\Debug\Day12_Method.pdb
+D:\dotnet\Basic to Advance\Day12_Method\obj\Debug\Day12_Method.csproj.AssemblyReference.cache
+D:\dotnet\Basic to Advance\Day12_Method\obj\Debug\Day12_Method.csproj.CoreCompileInputs.cache
+D:\dotnet\Basic to Advance\Day12_Method\obj\Debug\Day12_Method.exe
+D:\dotnet\Basic to Advance\Day12_Method\obj\Debug\Day12_Method.pdb
+D:\dotnet\Basic to Advance\Day12_Method\obj\Debug\Day12_Method.exe.config

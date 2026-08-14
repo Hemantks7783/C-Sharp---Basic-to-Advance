@@ -1,0 +1,8 @@
+D:\dotnet\Basic to Advance\Day12_Return Type Methods\bin\Debug\Day12_Return Type Methods.exe.config
+D:\dotnet\Basic to Advance\Day12_Return Type Methods\bin\Debug\Day12_Return Type Methods.exe
+D:\dotnet\Basic to Advance\Day12_Return Type Methods\bin\Debug\Day12_Return Type Methods.pdb
+D:\dotnet\Basic to Advance\Day12_Return Type Methods\obj\Debug\Day12_Return Type Methods.csproj.AssemblyReference.cache
+D:\dotnet\Basic to Advance\Day12_Return Type Methods\obj\Debug\Day12_Return Type Methods.csproj.CoreCompileInputs.cache
+D:\dotnet\Basic to Advance\Day12_Return Type Methods\obj\Debug\Day12_Return Type Methods.exe
+D:\dotnet\Basic to Advance\Day12_Return Type Methods\obj\Debug\Day12_Return Type Methods.pdb
+D:\dotnet\Basic to Advance\Day12_Return Type Methods\obj\Debug\Day12_Return Type Methods.exe.config

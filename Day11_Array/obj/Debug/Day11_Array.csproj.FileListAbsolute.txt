@@ -1,0 +1,8 @@
+D:\dotnet\Basic to Advance\Day11_Array\bin\Debug\Day11_Array.exe.config
+D:\dotnet\Basic to Advance\Day11_Array\bin\Debug\Day11_Array.exe
+D:\dotnet\Basic to Advance\Day11_Array\bin\Debug\Day11_Array.pdb
+D:\dotnet\Basic to Advance\Day11_Array\obj\Debug\Day11_Array.csproj.AssemblyReference.cache
+D:\dotnet\Basic to Advance\Day11_Array\obj\Debug\Day11_Array.csproj.CoreCompileInputs.cache
+D:\dotnet\Basic to Advance\Day11_Array\obj\Debug\Day11_Array.exe
+D:\dotnet\Basic to Advance\Day11_Array\obj\Debug\Day11_Array.pdb
+D:\dotnet\Basic to Advance\Day11_Array\obj\Debug\Day11_Array.exe.config
